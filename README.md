@@ -12,8 +12,8 @@
 
 The WezTerm configuration file uses the Darkvoid color palette and supports:
 
--- Cursor, selection, and visual bell customizations.
--- ANSI and bright colors customizations.
--- Tab bar and scrollbar thumb colors.
+- Cursor, selection, and visual bell customizations.
+- ANSI and bright colors customizations.
+- Tab bar and scrollbar thumb colors.
 
 For additional customization options, refer to the [WezTerm documentation](https://wezterm.guru/).
